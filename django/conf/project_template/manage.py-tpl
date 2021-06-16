@@ -20,3 +20,15 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+
+
+
+
+
+
+
+
+django/django/conf/project_template/manage.py-tpl
